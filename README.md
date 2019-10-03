@@ -70,7 +70,7 @@ npm start
 npm run dev
 ```
 ### 資料夾移動
-將```smart_recommend```資料夾放入```server```資料夾中
+將```smart_recommend```資料夾放入```workAdapterAbility/server```資料夾中
 
 之後在網址連結打[localhost:8080](http://localhost:8080)便能看到內容
 
